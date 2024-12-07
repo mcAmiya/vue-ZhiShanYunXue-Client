@@ -1,3 +1,5 @@
+![项目Logo](images/README/zsyx_logo_big.png "项目Logo")
+
 <h2 align="center" style="font-weight: 600">vue-zhishanyunxue-client</h2>
 <p align="center">
     基于Vue3的<a>至善云学</a>前端
